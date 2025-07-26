@@ -1,3 +1,5 @@
+This github repository can be used with dockerhub repository fjsoto/house_price_predictor.
+
 The repository contains the next files in the folder housing_prices:
 1. housing.csv.zip: file downloaded from kaggle link provided for the task.
 2. housing.csv: extracted data from the downloaded file.
