@@ -45,6 +45,3 @@ Then, using docker, I can encapsulate evertything needed to run the application 
 I uploaded the contenarized application to my docker hub account so the image can be pulled directly from a console with the instructions above.
 Otherwise someone could aslo download the Docker file and create image on his own (a couple of steps more maybe).
 
-With more time given, I would have tested other methods for dealing with null values, I would have tested more feature transformations and more models,
-I would have added also support for different possible handling of errors like diffent data types in the request or when something goes wrong with the service.
-
